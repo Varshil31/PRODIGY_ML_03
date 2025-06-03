@@ -1,4 +1,4 @@
-# PRODIGY_ML_03
+# Cats & Dogs Classification using SVM
 # Image Classification using SVM
 This project demonstrates a basic image classification pipeline using classical machine learning techniques. It involves loading and preprocessing images, extracting features, and training a Support Vector Machine (SVM) classifier to recognize different classes.
 
